@@ -1,0 +1,6 @@
+# Simple ASL to Text Converter - Requirements
+# Install all with: pip install -r requirements.txt
+
+opencv-python==4.12.0.88
+mediapipe==0.10.9
+numpy==1.24.3
